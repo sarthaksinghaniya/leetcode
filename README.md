@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/sarthaksinghaniya/leetcode/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/sarthaksinghaniya/leetcode/tree/master/0223-rectangle-area) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/sarthaksinghaniya/leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
