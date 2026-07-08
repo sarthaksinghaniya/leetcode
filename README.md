@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sarthaksinghaniya/leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/sarthaksinghaniya/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/sarthaksinghaniya/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -46,8 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarthaksinghaniya/leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/sarthaksinghaniya/leetcode/tree/master/0075-sort-colors) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarthaksinghaniya/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
