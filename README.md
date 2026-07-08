@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0009-palindrome-number) |
 | [0223-rectangle-area](https://github.com/sarthaksinghaniya/leetcode/tree/master/0223-rectangle-area) |
 ## Geometry
 |  |
