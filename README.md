@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sarthaksinghaniya/leetcode/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sarthaksinghaniya/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/sarthaksinghaniya/leetcode/tree/master/0233-number-of-digit-one) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
