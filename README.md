@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sarthaksinghaniya/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0636-exclusive-time-of-functions](https://github.com/sarthaksinghaniya/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0704-binary-search](https://github.com/sarthaksinghaniya/leetcode/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -99,5 +100,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthaksinghaniya/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/sarthaksinghaniya/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sarthaksinghaniya/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
