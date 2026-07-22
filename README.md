@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthaksinghaniya/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0223-rectangle-area](https://github.com/sarthaksinghaniya/leetcode/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/sarthaksinghaniya/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/sarthaksinghaniya/leetcode/tree/master/0233-number-of-digit-one) |
 | [0371-sum-of-two-integers](https://github.com/sarthaksinghaniya/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Geometry
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sarthaksinghaniya/leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/sarthaksinghaniya/leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/sarthaksinghaniya/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sarthaksinghaniya/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/sarthaksinghaniya/leetcode/tree/master/0233-number-of-digit-one) |
 ## Simulation
 |  |
