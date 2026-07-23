@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sarthaksinghaniya/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/sarthaksinghaniya/leetcode/tree/master/0233-number-of-digit-one) |
 | [0371-sum-of-two-integers](https://github.com/sarthaksinghaniya/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0509-fibonacci-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0509-fibonacci-number) |
 ## Geometry
 |  |
 | ------- |
@@ -86,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/sarthaksinghaniya/leetcode/tree/master/0233-number-of-digit-one) |
+| [0509-fibonacci-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sarthaksinghaniya/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/sarthaksinghaniya/leetcode/tree/master/0233-number-of-digit-one) |
+| [0509-fibonacci-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthaksinghaniya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
