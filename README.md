@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthaksinghaniya/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sarthaksinghaniya/leetcode/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sarthaksinghaniya/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sarthaksinghaniya/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarthaksinghaniya/leetcode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sarthaksinghaniya/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sarthaksinghaniya/leetcode/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0179-largest-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sarthaksinghaniya/leetcode/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
