@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0636-exclusive-time-of-functions](https://github.com/sarthaksinghaniya/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0704-binary-search](https://github.com/sarthaksinghaniya/leetcode/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sarthaksinghaniya/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/sarthaksinghaniya/leetcode/tree/master/0233-number-of-digit-one) |
 | [0371-sum-of-two-integers](https://github.com/sarthaksinghaniya/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/sarthaksinghaniya/leetcode/tree/master/1518-water-bottles) |
 ## Geometry
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sarthaksinghaniya/leetcode/tree/master/0053-maximum-subarray) |
 | [0233-number-of-digit-one](https://github.com/sarthaksinghaniya/leetcode/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
@@ -164,4 +167,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
