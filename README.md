@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sarthaksinghaniya/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/1470-shuffle-the-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sarthaksinghaniya/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sarthaksinghaniya/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sarthaksinghaniya/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/1929-concatenation-of-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sarthaksinghaniya/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
