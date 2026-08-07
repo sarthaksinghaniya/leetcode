@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/sarthaksinghaniya/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0704-binary-search](https://github.com/sarthaksinghaniya/leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0877-stone-game) |
+| [1046-last-stone-weight](https://github.com/sarthaksinghaniya/leetcode/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sarthaksinghaniya/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/sarthaksinghaniya/leetcode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
