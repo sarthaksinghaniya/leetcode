@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0636-exclusive-time-of-functions](https://github.com/sarthaksinghaniya/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0704-binary-search](https://github.com/sarthaksinghaniya/leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/sarthaksinghaniya/leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/sarthaksinghaniya/leetcode/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/sarthaksinghaniya/leetcode/tree/master/0089-gray-code) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/sarthaksinghaniya/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
