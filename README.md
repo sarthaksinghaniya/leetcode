@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/sarthaksinghaniya/leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/sarthaksinghaniya/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/sarthaksinghaniya/leetcode/tree/master/0233-number-of-digit-one) |
+| [0292-nim-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/sarthaksinghaniya/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0877-stone-game) |
@@ -180,10 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -201,4 +204,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sarthaksinghaniya/leetcode/tree/master/0724-find-pivot-index) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sarthaksinghaniya/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
