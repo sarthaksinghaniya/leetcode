@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sarthaksinghaniya/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sarthaksinghaniya/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sarthaksinghaniya/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sarthaksinghaniya/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sarthaksinghaniya/leetcode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Brainteaser
 |  |
 | ------- |
