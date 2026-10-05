@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sarthaksinghaniya/leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/sarthaksinghaniya/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sarthaksinghaniya/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sarthaksinghaniya/leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/sarthaksinghaniya/leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthaksinghaniya/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/sarthaksinghaniya/leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/sarthaksinghaniya/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/sarthaksinghaniya/leetcode/tree/master/0233-number-of-digit-one) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sarthaksinghaniya/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/sarthaksinghaniya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sarthaksinghaniya/leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sarthaksinghaniya/leetcode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
