@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sarthaksinghaniya/leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/sarthaksinghaniya/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sarthaksinghaniya/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sarthaksinghaniya/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sarthaksinghaniya/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/sarthaksinghaniya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sarthaksinghaniya/leetcode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/sarthaksinghaniya/leetcode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
