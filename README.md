@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthaksinghaniya/leetcode/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/sarthaksinghaniya/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/sarthaksinghaniya/leetcode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sarthaksinghaniya/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/sarthaksinghaniya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sarthaksinghaniya/leetcode/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/sarthaksinghaniya/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sarthaksinghaniya/leetcode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
@@ -240,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sarthaksinghaniya/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sarthaksinghaniya/leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sarthaksinghaniya/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
