@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sarthaksinghaniya/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/sarthaksinghaniya/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/sarthaksinghaniya/leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/sarthaksinghaniya/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sarthaksinghaniya/leetcode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sarthaksinghaniya/leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/sarthaksinghaniya/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/sarthaksinghaniya/leetcode/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/sarthaksinghaniya/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sarthaksinghaniya/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthaksinghaniya/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthaksinghaniya/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/sarthaksinghaniya/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/sarthaksinghaniya/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sarthaksinghaniya/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sarthaksinghaniya/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sarthaksinghaniya/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sarthaksinghaniya/leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/sarthaksinghaniya/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
