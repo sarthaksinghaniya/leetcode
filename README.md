@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarthaksinghaniya/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sarthaksinghaniya/leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/sarthaksinghaniya/leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/sarthaksinghaniya/leetcode/tree/master/0066-plus-one) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarthaksinghaniya/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sarthaksinghaniya/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/sarthaksinghaniya/leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/sarthaksinghaniya/leetcode/tree/master/0231-power-of-two) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarthaksinghaniya/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sarthaksinghaniya/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sarthaksinghaniya/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sarthaksinghaniya/leetcode/tree/master/0234-palindrome-linked-list) |
